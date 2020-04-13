@@ -20,8 +20,6 @@ namespace Codenation_JulioCesarChallenge
             JulioCesarChallenge.HashDecryptedAndSave();
 
             await JulioCesarChallenge.SubmitFile(Token);
-
-            var i = 1;
         }
     }
 }
